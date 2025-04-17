@@ -1,6 +1,10 @@
  # ❗ Resolución de Error en la Instalación con `npm install -y`
 
  
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5haHFtN2pqYXdpenFkdDdtd2prM3hkOHlqM24wazM1ZWplZXpxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
+</p>
+
 
  ## 🛠️ Descripción del Problema:
 
