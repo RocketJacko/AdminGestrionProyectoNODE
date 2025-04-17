@@ -104,11 +104,13 @@ Puedes reinstalarlo en cualquier momento desde este repositorio.
 
 
 
-![Productividad](https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Productividad" />
+</p>
 
-Hecho con ❤️ para desarrolladores organizados y productivos.  
-**Elaborado por Jesús Carmona**  
-**Contacto: jesus.carmona966@pascualabravo.edu.co**
-
-</details>
+<p align="center">
+  Hecho con ❤️ para desarrolladores organizados y productivos. <br>
+  <strong>Elaborado por Jesús Carmona</strong> <br>
+  <strong>Contacto: jesus.carmona966@pascualabravo.edu.co</strong>
+</p>
 
