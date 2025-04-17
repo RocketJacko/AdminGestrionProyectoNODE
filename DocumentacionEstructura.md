@@ -109,3 +109,14 @@ Basándonos en la estructura, el flujo de trabajo podría ser el siguiente:
 ## 🔒 ** Consideraciones **- Este entorno de desarrollo centraliza la gestión de múltiples proyectos Node.js, proporcionando herramientas comunes.
 - Cada proyecto dentro de la carpeta `proyectos` es un proyecto Node.js independiente con su propio archivo `package.json` y sus propias dependencias.
 - El `package.json` en el directorio raíz contiene dependencias y scripts necesarios para el funcionamiento de las herramientas de gestión del entorno.
+
+
+   <div align="center">
+
+   
+
+   Hecho con ❤️ para desarrolladores organizados y productivos.  
+   <strong>Elaborado por Jesús Carmona</strong>  
+   <strong>Contacto: jesus.carmona966@pascualabravo.edu.co</strong>
+
+   </div>
