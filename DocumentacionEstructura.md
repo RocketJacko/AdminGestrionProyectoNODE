@@ -1,6 +1,12 @@
+# Estructura del Proyecto Node.js
+
+ 
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHY1ZzFpNzhpZzkzb2NrZzN6dnN5dTJqc2MxcGR4eWVvMXY0dXp5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JsE9qckiYyVClQ5bY2/giphy.gif" width="300" height="300" />
+</p>
 
 
-# Documentación de la Estructura del Proyecto Node.js
+
 
 Esta documentación describe la estructura de carpetas y archivos del proyecto Node.js ubicado en **D:\DevProyectosNode**. La arquitectura del proyecto está orientada a la gestión y ejecución de múltiples proyectos Node.js dentro de un mismo entorno.
 
