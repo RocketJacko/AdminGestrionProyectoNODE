@@ -2,7 +2,7 @@
 
  
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5haHFtN2pqYXdpenFkdDdtd2prM3hkOHlqM24wazM1ZWplZXpxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWMwNmZxd2hxaTB6N3NreDBiYzVsbTAxd2VkcDIxcWpqZ2Fidng3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11kEuHSQAXXiGQ/giphy.gif" />
 </p>
 
 
@@ -169,3 +169,5 @@ Basándonos en la estructura, el flujo de trabajo podría ser el siguiente:
 - Este entorno de desarrollo centraliza la gestión de múltiples proyectos Node.js, proporcionando herramientas comunes.
 - Cada proyecto dentro de la carpeta `proyectos` es un proyecto Node.js independiente con su propio archivo `package.json` y sus propias dependencias.
 - El `package.json` en el directorio raíz contiene dependencias y scripts necesarios para el funcionamiento de las herramientas de gestión del entorno.
+
+
